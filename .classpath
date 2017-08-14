@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="webmagic/lib/assertj-core-1.5.0.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/commons-pool2-2.4.2.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/fastjson-1.2.21.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/jedis-2.9.0.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/json-path-0.8.1.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/json-smart-1.1.1.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/slf4j-log4j12-1.7.6.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/webmagic-core-0.6.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/webmagic-extension-0.6.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/xsoup-0.3.1.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/json-lib-2.3-jdk15.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="webmagic/lib/beautyeye_lnf.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
